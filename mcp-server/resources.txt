@@ -1,0 +1,43 @@
+# Interstellar Objects
+
+## What Are They?
+Interstellar objects (ISOs) are natural bodies like comets or asteroids that **originated outside our Solar System**. They travel on **hyperbolic** paths (eccentricity > 1), meaning they are not gravitationally bound to the Sun.
+
+## Why They Matter
+- Direct samples of other planetary systems
+- Insights into planet formation and migration elsewhere
+- Evidence of how common small-body ejection is in young solar systems
+
+## Known Examples
+- **1I/‘Oumuamua (2017)**  
+  - First detected ISO  
+  - Strange shape and non-gravitational acceleration sparked debate about its nature
+- **2I/Borisov (2019)**  
+  - Clearly comet-like with a visible tail  
+  - Composition similar to comets but with notable differences
+
+## How We Detect Them
+- Wide-field sky surveys (Pan-STARRS, Catalina, ZTF)
+- Clues:
+  - Very fast motion
+  - Hyperbolic orbit
+  - Seen only for a short time (weeks to months)
+
+## Expected Properties
+- Sizes: tens of meters to a few kilometers  
+- Can be icy, rocky, or mixed materials  
+- Long travel in interstellar space can darken or redden surfaces
+
+## Open Questions
+- How many ISOs exist per unit of space?
+- How diverse are their compositions?
+- What mechanisms eject them from their home systems?
+
+## Future Exploration
+- Rubin Observatory/LSST expected to find many more
+- Concepts for **rapid-response intercept missions** to study or sample them
+
+---
+
+**Bottom Line:**  
+Interstellar objects are rare visitors from other star systems. Each one gives us a brief but valuable look at the building blocks of distant worlds.
